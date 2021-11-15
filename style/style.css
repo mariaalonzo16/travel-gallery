@@ -103,17 +103,6 @@ li a:hover:not(.active) {
 }
 
 
-img {
-  display: block;
-  width: 50%;
-  min-height: 100px;
-  margin: 50px 30px;
-  
-}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+
+
 
