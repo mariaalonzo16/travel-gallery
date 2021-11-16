@@ -20,15 +20,15 @@ The theme behind ...
 
 ## Status
 
-<p align="center"> <img src="https://img.shields.io/tokei/lines/github/droman892/travel-gallery" /> </p>
+<p align="center"> <img src="https://img.shields.io/tokei/lines/github/mariaalonzo16/travel-gallery" /> </p>
 
-<p align="center"> <img src="https://img.shields.io/github/languages/count/droman892/travel-gallery" /> </p>
+<p align="center"> <img src="https://img.shields.io/github/languages/count/mariaalonzo16/travel-gallery" /> </p>
 
-<p align="center"> <img src="https://img.shields.io/github/repo-size/droman892/travel-gallery" /> </p>
+<p align="center"> <img src="https://img.shields.io/github/repo-size/mariaalonzo16/travel-gallery" /> </p>
 
 ## Download and Installation
 
-- Clone the repo: `git clone https://github.com/droman892/travel-gallery.git`
+- Clone the repo: `git clone https://github.com/mariaalonzo16/travel-gallery.git`
 
 ## Usage
 

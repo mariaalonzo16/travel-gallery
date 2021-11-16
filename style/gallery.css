@@ -1,15 +1,28 @@
 img {
     display: block;
-    width: 50%;
+    max-width: 30%;
     min-height: 100px;
     margin: 50px 30px;
 }
+
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 }
+
 .argentina {
     margin-bottom: 100px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.item {
+    margin: 10px;
+    
 }
