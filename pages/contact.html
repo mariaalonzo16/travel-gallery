@@ -10,7 +10,13 @@
   </head>
 
   <body>
-    <h1 class= "page-header">Maria's Travel Blog</h1>
+    <!-- <h1 class= "page-header">Maria's Travel Blog</h1> -->
+
+    <div>
+      <div class="red-flag"></div>
+      <div class="yellow-flag"></div>
+      <div class="red-flag"> </div>
+    </div>
 
     <ul id="nav" >
       <li><a href="../index.html">HOME</a></li>
@@ -18,37 +24,39 @@
       <li><a href="./gallery.html">GALLERY</a></li>
       <li><a class="active" href="./contact.html">CONTACT US</a></li>
     </ul>
-
-    <div class="container">
-      <form>
-        <p class="firstname">
-        <label for="fname">First Name</label>
-        <input type="text" id="fname" name="firstname" placeholder="Your first name...">
-        </p>
-        <p class="firstname">
-        <label for="lname">Last Name</label>
-        <input type="text" id="lname" name="lastname" placeholder="Your last name...">
-        </p>
-        <p class="firstname">
-        <label for="country">Country</label>
-        <select id="country" name="country">
-          <option value="australia">Australia</option>
-          <option value="canada">Canada</option>
-          <option value="usa">USA</option>
-          <option value="honduras">Honduras</option>
-        </select>
+    
+    <main>
+      <div class="container">
+        <form>
+          <p class="firstname">
+          <label for="fname">First Name</label>
+          <input type="text" id="fname" name="firstname" placeholder="Your first name...">
           </p>
           <p class="firstname">
-        <label for="subject">Subject</label>
-        <textarea id="subject" name="subject" placeholder="Write something.." style="height:15px"> </textarea>
+          <label for="lname">Last Name</label>
+          <input type="text" id="lname" name="lastname" placeholder="Your last name...">
           </p>
           <p class="firstname">
-            <input type="submit" value="Submit">
-        </p>
-        
-      </form>
-    </div>
-
+          <label for="country">Country</label>
+          <select id="country" name="country">
+            <option value="australia">Australia</option>
+            <option value="canada">Canada</option>
+            <option value="usa">USA</option>
+            <option value="honduras">Honduras</option>
+          </select>
+            </p>
+            <p class="firstname">
+          <label for="subject">Subject</label>
+          <textarea id="subject" name="subject" placeholder="Write something.." style="height:15px"> </textarea>
+            </p>
+            <p class="firstname">
+              <input type="submit" value="Submit">
+          </p>
+          
+        </form>
+      </div>
+    </main>
+    
     <div class="footer">
       <p>Maria Alonzo</p>
     </div>
