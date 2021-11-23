@@ -1,0 +1,80 @@
+.center {
+text-align: center;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.cursor {
+width: 80px;
+margin: 50px;
+
+}
+
+
+.flex-container {
+    flex-direction: column-reverse;
+}
+
+img{
+    display: block;
+    width: 60%;
+    min-height: 100px;
+}
+  
+.img-mosaic {
+    float: right;
+}
+
+.mosaic {
+    position: relative;
+    bottom: 40px;
+}
+
+.page-header {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0px;
+    color: black;
+    
+}
+
+
+
+
+
+
+
+
+
+
+.some-page-wrapper {
+    margin: 80px;
+}
+  
+  .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  
+  .column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+  }
+  
+  .double-column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 2;
+}
+
+
+  
+  
+

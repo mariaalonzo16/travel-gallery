@@ -20,10 +20,9 @@ body {
   height: 100px;
 }
 
-
-
-
-
+main {
+  margin: 50px 50px 100px;
+}
 
 .footer {
   position: fixed;
