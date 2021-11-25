@@ -8,6 +8,11 @@ padding: 0%;
 border: 0px;
 }
 
+h2 {
+    text-align: center;
+    margin-top: 80px;
+}
+
 
 .flex-container {
     flex-direction: column-reverse;
@@ -28,13 +33,7 @@ img{
     bottom: 40px;
 }
 
-.page-header {
-    padding-top: 30px;
-    padding-bottom: 30px;
-    margin: 0px;
-    color: black;
-    
-}
+
 
 
 
@@ -46,7 +45,7 @@ img{
 
 
 .some-page-wrapper {
-    margin: 80px;
+    margin: 30px;
 }
   
   .row {
@@ -54,7 +53,7 @@ img{
     flex-direction: row;
     flex-wrap: wrap;
     width: 100%;
-    margin: 30px;
+    margin: 0px;
   }
   
   .column {
@@ -78,8 +77,16 @@ img{
 }
 
 a.destinations:hover {
-    color: rgba(0, 255, 255, 0.432);
+    /* color: rgba(17, 17, 17, 0.527); */
+    opacity: calc(50%);
 }
+
+
+
+i {
+    color: rgb(248, 103, 103);
+}
+
 
 
 
