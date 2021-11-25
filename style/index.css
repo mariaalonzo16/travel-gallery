@@ -54,6 +54,7 @@ img{
     flex-direction: row;
     flex-wrap: wrap;
     width: 100%;
+    margin: 30px;
   }
   
   .column {
@@ -61,16 +62,17 @@ img{
     /* flex-direction: column;
     flex-basis: 10%;
     flex: 1; */
-  }
+    margin: 20px;
+}
   
-  .double-column {
+  /* .double-column {
     display: flex;
     flex-direction: column;
     flex-basis: 100%;
     flex: 2;
-}
+} */
 .destinations {
-    color: rgb(0, 255, 255);
+    color: #111;
     text-decoration: none;
     text-align: center;
 }

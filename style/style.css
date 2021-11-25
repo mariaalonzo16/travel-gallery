@@ -29,7 +29,7 @@ main {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #a790a5;
+  background-color: #fff784;
   color: #54414e;
   text-align: center;
 }
@@ -80,17 +80,18 @@ main {
 
 
 
+
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #a790a5;
+  background-color:#ffffff;
 }
 
 li {
   float: left;
-  border-right:1px solid #bbb;
+  /* border-right:10px solid #bbb; */
 }
 
 li:last-child {
@@ -99,21 +100,29 @@ li:last-child {
 
 li a {
   display: block;
-  color: white;
+  color:#111;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
-li a:hover:not(.active) {
+/* li a:hover:not(.active) {
   background-color: #111;
-}
+} */
 
 .active {
-  background-color: #875c74;
+  background-color: #f86767;
 }
 
+.nav-link:hover {
+ transform: scale(1.1);
+ transition: 0.5s;
+ 
+}
 
+.nav-link {
+  font-weight: 700;
 
+}
 
 
