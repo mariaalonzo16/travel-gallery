@@ -15,30 +15,53 @@
      <div class="red-flag"></div>
      <div class="yellow-flag">
         <a href="./index.html">
-          <h1 class="page-header">Spain Travel Blog</h1>
+          <h1 class="page-header">Piece of Spain</h1>
         </a>
      </div>
      <div class="red-flag"> </div>
    </header>
 
 
-    <nav>
-      <ul id="navbar" >
-        <li><a class="active nav-link" href="./index.html">HOME</a></li>
-        <li><a class="nav-link" href="./pages/about.html">ABOUT</a></li>
-        <li><a class="nav-link" href="./pages/gallery.html">GALLERY</a></li>
-        <li><a class="nav-link" href="./pages/contact.html">CONTACT US</a></li>
-      </ul>
-    </nav>
+   <nav>
+    <div class="navbar" id="navbar" >
+      
+      <a class="nav-link" href="./index.html">
+        HOME
+      </a>
+
+      <a class="nav-link" href="./pages/about.html">
+        ABOUT
+      </a>
+      
+        <div class="dropdown">
+          <button class="dropbtn nav-link">
+            DESTINATIONS 
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+            <a href="./pages/destinations/countries/barcelona.html">Barcelona</a>
+            <a href="./pages/destinations/countries/valencia.html">Valencia</a>
+            <a href="./pages/destinations/countries/madrid.html">Madrid</a>
+            <a href="./pages/destinations/countries/palma-de-mallorca.html">Palma de Mallorca</a>
+          </div>
+        </div> 
+
+      
+      <a class="nav-link" href="./pages/contact.html">
+        Contact Us
+      </a>
+      
+    </div>
+  </nav>
 
     <main class="content">
 
       <div>
         <div>
-          <img src="../images/sagrada-familia.jpg" alt="Sagrada Familia"/>
+          <img src="../images/indeximages/sagrada-familia.jpg" alt="Sagrada Familia"/>
         </div>
         <div class="mosaic clearfix">
-          <img src="../images/mosaic-sf.jpg" alt="Mosaic SF" class="img-mosaic"/>
+          <img src="../images/indeximages/mosaic-sf.jpg" alt="Mosaic SF" class="img-mosaic"/>
         </div>
       </div>
 
@@ -59,7 +82,7 @@
               </div>
               <div class='column'>
                 <div>
-                  <a href="./pages/destinations/barcelona/barcelona.html" class="destinations">Barcelona</a>
+                  <a href="./pages/destinations/countries/barcelona.html" class="destinations">Barcelona</a>
                 </div>
               </div>
             </div>
@@ -72,7 +95,7 @@
               </div>
               <div class='column'>
                 <div>
-                  <a href="./pages/destinations/valencia.html" class="destinations">Valencia</a>
+                  <a href="./pages/destinations/countries/valencia.html" class="destinations">Valencia</a>
                 </div>
               </div>
             </div>
@@ -85,7 +108,7 @@
               </div>
               <div class='column'>
                 <div>
-                  <a href="./pages/destinations/madrid.html" class="destinations">Madrid</a>
+                  <a href="./pages/destinations/countries/madrid.html" class="destinations">Madrid</a>
                 </div>
               </div>
             </div>
@@ -98,7 +121,7 @@
               </div>
               <div class='column'>
                 <div>
-                  <a href="./pages/destinations/palma-de-mallorca.html" class="destinations">Palma de Mallorca</a>
+                  <a href="./pages/destinations/countries/palma-de-mallorca.html" class="destinations">Palma de Mallorca</a>
                 </div>
               </div>
             </div>
@@ -106,7 +129,7 @@
 
           <div class='column'>
             <p>
-              YAYY
+              Welcome to a Piece of Spain
             </p>
           </div>
         </div>

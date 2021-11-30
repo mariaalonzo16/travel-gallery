@@ -13,22 +13,48 @@
   </head>
 
   <body>
-    <!-- <h1 class= "page-header">Maria's Travel Blog</h1> -->
-
+    
     <header>
       <div class="red-flag"></div>
-      <div class="yellow-flag"></div>
+      <div class="yellow-flag">
+         <a href="./index.html">
+           <h1 class="page-header">Piece of Spain</h1>
+         </a>
+      </div>
       <div class="red-flag"> </div>
     </header>
 
 
     <nav>
-        <ul id="nav" >
-          <li><a href="../index.html">HOME</a></li>
-          <li><a href="./about.html">ABOUT</a></li>
-          <li><a href="./gallery.html">GALLERY</a></li>
-          <li><a class="active" href="./contact.html">CONTACT US</a></li>
-        </ul>
+      <div class="navbar" id="navbar" >
+        
+        <a class="nav-link" href="./index.html">
+          HOME
+        </a>
+  
+        <a class="nav-link" href="./pages/about.html">
+          ABOUT
+        </a>
+        
+          <div class="dropdown">
+            <button class="dropbtn nav-link">
+              DESTINATIONS 
+              <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+              <a href="./pages/destinations/countries/barcelona.html">Barcelona</a>
+              <a href="./pages/destinations/countries/valencia.html">Valencia</a>
+              <a href="./pages/destinations/countries/madrid.html">Madrid</a>
+              <a href="./pages/destinations/countries/palma-de-mallorca.html">Palma de Mallorca</a>
+            </div>
+          </div> 
+  
+        
+        <a class="nav-link" href="./pages/contact.html">
+          Contact Us
+        </a>
+        
+      </div>
     </nav>
 
     
@@ -65,11 +91,14 @@
     </main>
     
     <footer class="footer">
-      <p>Maria Alonzo</p>
+      <div class="social-media">
+        <i class="fab fa-twitter-square fa-3x color"></i>
+        <i class="fab fa-facebook-square fa-3x facebook color"></i>
+        <i class="fab fa-instagram-square fa-3x color"></i>
+      </div>
     </footer>
 
     <script src="./js/stickyNavBar.js"> </script>
-
 
 
   </body>
