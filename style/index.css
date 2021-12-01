@@ -48,20 +48,16 @@ img{
     margin: 30px;
 }
   
-  .row {
+.row {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     width: 100%;
     margin: 0px;
-  }
+}
   
-  .column {
-    /* display: flex; */
-    /* flex-direction: column;
-    flex-basis: 10%;
-    flex: 1; */
-    margin: 20px;
+.column {
+    margin: 50px;
 }
   
   /* .double-column {
