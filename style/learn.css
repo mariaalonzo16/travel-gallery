@@ -49,10 +49,14 @@ color: black;
     flex-direction: column;
     justify-content: space-between;
     flex-wrap: wrap;
-    padding: 100px;
+    padding: 40px;
     
 }
 
 .facts {
     padding: 40px;
+}
+
+.facts-2 {
+    padding: 20px;
 }
