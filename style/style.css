@@ -42,8 +42,6 @@ body {
 }
 
 li {
-  /* float: left;
-  display: block; */
   display: inline-block;
   color: #54414e;
   text-align: center;
@@ -67,7 +65,7 @@ main {
 }
 
 .nav-link {
-   font-weight: 700;
+  font-weight: 700;
 }
 
 .nav-link:hover {
@@ -98,33 +96,10 @@ main {
  margin: 10px;
 }
 
-
-
-
 .yellow-flag {
   background-color: #fafa6e;
   height: 100px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .navbar {
   background-color: rgb(255, 255, 255);
