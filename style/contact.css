@@ -1,7 +1,7 @@
 .container {
   width: 100%; 
   padding: 12px; 
-  border: 1px solid #ccc; 
+  border: 1px solid #f7f1a2; 
   border-radius: 4px; 
   box-sizing: border-box;  
   margin-bottom: 200px; 
@@ -9,7 +9,7 @@
 }
   
 input[type=submit] {
-  background-color: #04AA6D;
+  background-color: #f39d9d;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -18,12 +18,12 @@ input[type=submit] {
 }
   
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color:#f39d9d;
 }
 
 .container {
   border-radius: 6px;
-  background-color: #f2f2f2;
+  background-color: #f7f1a2;
   padding: 20px;
   max-width: 350px;
   display: block;
@@ -39,7 +39,7 @@ input[type=submit]:hover {
 input[type=text], select, textarea {
   width: 100%; 
   padding: 12px; 
-  border: 1px solid #ccc; 
+  border: 1px solid #f7f1a2; 
   border-radius: 4px; 
   box-sizing: border-box; 
   margin-top: 6px; 
