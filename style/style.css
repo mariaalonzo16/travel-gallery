@@ -9,6 +9,10 @@ a {
 body {
   margin: 0;
   font-family: sans-serif;
+
+ 
+  height: 100%;
+  width: 100%;
 }
 
 .color {
@@ -61,8 +65,17 @@ li:last-child {
 }
 
 main {
-  margin: 30px 100px 30px 100px;
+  padding: 30px 100px 30px 100px !important;
+  margin-bottom: 68px;
+
 }
+
+.test {
+  height: 100px;
+  background-color: blue;
+}
+
+
 
 .nav-link {
   font-weight: 700;

@@ -2,8 +2,9 @@
     background-color: transparent;
     width: 300px;
     height: 200px;
-    border: 1px solid white;
-    perspective: 1000px; /* Remove this if you don't want the 3D effect */
+    /* border: 15px solid white; */
+    perspective: 1000px; 
+    margin: 15px;
 }
 
 .flip-card-inner {
@@ -38,16 +39,20 @@ color: black;
     background-color: rgb(247, 182, 62);
     color: white;
     transform: rotateY(180deg);
+    display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-
+.padded {
+    padding: 10px;
+}
 
 .flexbox{
     height: 500px;
     width: 500px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
     flex-wrap: wrap;
     padding: 40px;
     
@@ -55,8 +60,4 @@ color: black;
 
 .facts {
     padding: 40px;
-}
-
-.facts-2 {
-    padding: 20px;
 }

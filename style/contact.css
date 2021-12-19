@@ -30,11 +30,9 @@ input[type=submit]:hover {
   margin-left: auto;
   margin-right: auto;
   margin-top: 80px;
-}
-
-.firstname {
   text-align: center;
 }
+
 
 input[type=text], select, textarea {
   width: 100%; 
@@ -45,4 +43,8 @@ input[type=text], select, textarea {
   margin-top: 6px; 
   margin-bottom: 16px; 
   resize: vertical; 
+}
+
+p {
+  margin: 10px;
 }

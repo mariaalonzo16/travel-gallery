@@ -1,3 +1,11 @@
+.accordion-container {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.destinations-heading {
+  text-align: center;
+}
 .dots {
     text-align: center;
     margin-bottom: 25px;
@@ -20,7 +28,7 @@
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 600px;
   position: relative;
   margin: auto;
 }
