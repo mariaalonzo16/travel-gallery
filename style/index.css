@@ -3,9 +3,9 @@
 }
 
 .cursor {
-margin: 80px;
-padding: 0%;
-border: 0px;
+    margin: 80px;
+    padding: 0%;
+    border: 0px;
 }
 
 .explore-spain {
@@ -19,6 +19,10 @@ border: 0px;
 h2 {
     text-align: center;
     margin-top: 0px;
+}
+
+h3 {
+    text-align: center;
 }
 
 
@@ -36,10 +40,10 @@ img{
     float: right;
 }
 
-.introduction {
-    padding: 30px;
+.paragraph {
+    padding: 10px;
     text-align: center;
-    
+    margin: 10px;
 }
 
 .mosaic {
@@ -72,15 +76,14 @@ img{
   
 .row {
     display: flex;
-    /* flex-direction: row;
-    flex-wrap: wrap; */
     width: 100%;
     margin: 0px;
     padding: 10px;
+
 }
   
 .column {
-    margin: 50px;
+    margin: 30px;
 }
   
 .destinations {
@@ -90,17 +93,20 @@ img{
 }
 
 a.destinations:hover {
-    /* color: rgba(17, 17, 17, 0.527); */
     opacity: calc(50%);
 }
 
 
 
 i {
-    color: rgb(248, 103, 103);
+    color: #111;
 }
 
 .arrows{
     margin: 10px;
     padding: 10px;
+}
+
+.fa-location-arrow:before {
+    color: #f86767;
 }
