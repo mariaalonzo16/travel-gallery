@@ -30,14 +30,16 @@
   
   
 .flip-card-front {
-background-color: #f76464;
+background-color: rgb(248, 103, 103);
 color: black;
+justify-content: center;
+margin-top: 30px;
 }
   
   /* Style the back side */
   .flip-card-back {
-    background-color: rgb(247, 182, 62);
-    color: white;
+    background-color: #fff784;
+    color: #111;
     transform: rotateY(180deg);
     display: flex;
   justify-content: center;
