@@ -2,6 +2,11 @@
     overflow: auto;
 }
 
+.column {
+    margin: 10px;
+    padding: 30px;
+}
+
 .cursor {
     margin: 80px;
     padding: 0%;
@@ -82,9 +87,7 @@ img{
 
 }
   
-.column {
-    margin: 30px;
-}
+
   
 .destinations {
     color: #111;
