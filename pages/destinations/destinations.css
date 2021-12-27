@@ -15,9 +15,7 @@
     width: 100%;
 }
 
-.paragraph{
-    padding: 10px;
-}
+
 
 .text-panel{
     font-weight: 700;
@@ -144,5 +142,10 @@
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
+  position: relative;
+}
+
+.panel-container{
+  margin: 20px;
 }
 
