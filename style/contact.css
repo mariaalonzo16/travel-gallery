@@ -1,12 +1,13 @@
 .container {
-  width: 100%; 
-  padding: 12px; 
-  border: 1px solid #f7f1a2; 
-  border-radius: 4px; 
-  box-sizing: border-box;  
-  margin-bottom: 80px; 
-  resize: vertical;
-  max-width: 100px;
+  border-radius: 6px;
+  background-color: #f7f1a2;
+  padding: 20px;
+  max-width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  font-size: 16px;
 }
   
 input[type=submit] {
@@ -23,20 +24,6 @@ input[type=submit]:hover {
   background-color:#f39d9d;
 }
 
-.container {
-  border-radius: 6px;
-  background-color: #f7f1a2;
-  padding: 20px;
-  max-width: 500px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 80px;
-  text-align: center;
-  font-size: 16px;
-}
-
-
 input[type=text], select, textarea {
   width: 100%; 
   padding: 12px; 
@@ -49,7 +36,22 @@ input[type=text], select, textarea {
   font-size: 16px;
 }
 
+label {
+  margin-left: 10px;
+}
+
+select option:hover {
+  background-color:#f7f1a2;
+}
+
+select option {
+  background: rgba(248, 248, 248, 0.3);
+  color: #111;
+}
+select option:checked {
+  background: #f7f1a2 -webkit-linear-gradient(bottom, #f7f1a2 0%, #f7f1a2 100%);
+}
+
 p {
   margin: 10px;
 }
-
