@@ -1,18 +1,19 @@
-![Travel Gallery]()
+![Piece of Spain]()
 
-<p align="center"> placeholder... </p>
+<p align="center"> "Piece of Spain" was created as a resource for travalers that want to visit Spain. The website offers user's ideas for places to visit and eat. </p>
 
-<p align="center"> :smile: </p>
+<p align="center"> :smile: :es: :sun_with_face: :smile: :es: :sun_with_face:</p>
 
 ## Description
 
-The theme behind ...
+Piece of Spain is a user friendly site that offers travelers several options for their trip to Spain.
+On the Home page users will come across with a "What to Expect" section
 
 ## Preview
 
-![Travel Gallery]()
+![Piece of Spain]()
 
-[Live Preview](https://mariaalonzo16.github.io/travel-gallery/)
+[Live Preview](https://user-images.githubusercontent.com/93888269/147800898-dc1efd35-0c2b-40c4-af5a-696212bd4099.mp4)
 
 ## Business Use Case
 
@@ -38,11 +39,11 @@ the `index.html` file in your web browser.
 
 ## Roadmap
 
-Travel Gallery remains an on-going project, open to contributions.  Functionality that could improve the UX, aside from optimizing the already responsive format and adding a back-end, include the following:
+Piece of Spain remains an on-going project, open to contributions.  Functionality that could improve the UX, aside from optimizing the already responsive format and adding a back-end, include the following:
 
-1) 
-2) 
-3) 
+1) Use a front-end framework
+2) Optimize the responsiveness
+3) Use a back-end server 
 
 ## Bugs and Issues
 

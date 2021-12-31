@@ -52,6 +52,10 @@ select option:checked {
   background: #f7f1a2 -webkit-linear-gradient(bottom, #f7f1a2 0%, #f7f1a2 100%);
 }
 
+.submit-button {
+  text-align: center;
+}
+
 p {
   margin: 10px;
 }
