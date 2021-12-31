@@ -1,14 +1,14 @@
 ![Piece of Spain](https://user-images.githubusercontent.com/93888269/147801148-1f8b9667-0705-4e3b-900e-3a2c85eb50c9.png)
 
-<p align="center"> Piece of Spain was created as a resource for travalers that want to visit Spain. The website offers users ideas for places to visit,eat, and fun-facts about Spain. </p>
+<p align="center"> Piece of Spain is a user friendly site that offers travelers several destination options for their trip to Spain. This includes places to eat, different things to do and overall cost of certain activities. </p>
 
 <p align="center"> :smile: :es: :sun_with_face: :smile: :es: :sun_with_face:</p>
 
 ## Description
 
-Piece of Spain is a user friendly site that offers travelers several destination options for their trip to Spain. This includes places to eat, different things to do and overall cost of certain activities.
+Piece of Spain was created as a resource for travelers that are planning a trip to Spain. The site offers users ideas for places to eat, and explore in Spain.
 
-HTML and CSS help Piece of Spain provide a minimalistic and easy to use site were travelers have easy access to certain information. JavaScript was used to provide functionality for the Stick NavBar, Accordion, and Carousal. 
+HTML and CSS help Piece of Spain provide a minimalistic and easy to use site were travelers have easy access to information about different cities in Spain. JavaScript was used to provide functionality for the Stick NavBar, Accordion, and Carousal that are used numerous times throughout the project. 
 
 
 ## Preview
@@ -17,7 +17,7 @@ HTML and CSS help Piece of Spain provide a minimalistic and easy to use site wer
 
 ## Business Use Case
 
-- Can generate traffic for potential users interested in Traveling to Spain
+- Can generate traffic for potential users interested in traveling to Spain.
 - Site can be use as a blog which can generate revenue with the use of Advertising and Sponsorships. 
 
 ## Status
@@ -40,9 +40,8 @@ After the project files are downloaded, feel free to edit the HTML, CSS, and Jav
 
 Piece of Spain remains an on-going project, open to contributions.  Functionality that could improve the UX, aside from optimizing the already responsive format and adding a back-end, include the following:
 
-1) Use a front-end framework
-2) Optimize the responsiveness
-3) Use a back-end server 
+1) Optimize the responsiveness
+2) Use a back-end server 
 
 ## Bugs and Issues
 

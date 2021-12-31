@@ -2,7 +2,6 @@
     background-color: transparent;
     width: 300px;
     height: 200px;
-    /* border: 15px solid white; */
     perspective: 1000px; 
     margin: 15px;
 }
@@ -72,4 +71,3 @@ img {
     width:300px;
     height:200px;
 }
-
