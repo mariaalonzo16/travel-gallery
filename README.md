@@ -12,7 +12,7 @@ HTML and CSS provide a minimalistic and easy to use site where travelers have ea
 
 ## Preview
 
-![Travel Gallery](https://user-images.githubusercontent.com/93888269/147800898-dc1efd35-0c2b-40c4-af5a-696212bd4099.mp4)
+[Travel Gallery](https://user-images.githubusercontent.com/93888269/147800898-dc1efd35-0c2b-40c4-af5a-696212bd4099.mp4)
 
 [Live Preview](https://mariaalonzo16.github.io/travel-gallery/)
 
