@@ -5,9 +5,11 @@
 <p align="center"> :smile: :es: :sun_with_face: :smile: :es: :sun_with_face:</p>
 
 ## Description
-Piece of Spain is a site that has a interface that  by showcasing the Spain flag colors throughout the webpage.
+Piece of Spain is targeted for users  interested in traveling to Spain. The site is full with information about Spain and it previews the bright colors of the Spain flag.
 
-HTML and CSS provide a minimalistic and easy to use site where travelers have easy access to information about different cities in Spain. By the used of flip-cards users are able to learn fun facts about spain and hopefully learn about their history. Users JavaScript was used to provide functionality for the sticky navbar, accordion, and carousal. To hear back from users a form was created that uses form validation and regex 
+HTML and CSS provide a minimalistic and easy to use site where travelers have easy access to information about different cities in Spain. By the used of flip-cards, users are able to learn interesting facts about Spain. 
+
+JavaScript was used to provide functionality for the sticky navbar, accordion, and carousal. To hear back from users a form was created that uses form validation and regex. 
 
 
 ## Preview
@@ -35,7 +37,7 @@ HTML and CSS provide a minimalistic and easy to use site where travelers have ea
 
 ## Usage
 
-After the project files are cloned, feel free to edit the HTML, CSS, and JavaScript files. The HTML files can be found within the `pages` directory, while CSS files can be found within the `style` directory and JavaScript files in `js` directory. To view the application and the changes you make to the code open preview the changes you make to the code, open the `index.html` root-directory file in your web browser.
+After the project files are cloned, feel free to edit the HTML, CSS, and JavaScript files. The HTML files can be found within the `pages` directory, while CSS files can be found within the `style` directory and JavaScript files in `js` directory. To view the application and the changes you make to the code open `index.html` root-directory file in your web browser.
 
 ## Roadmap
 
