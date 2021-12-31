@@ -1,23 +1,24 @@
 ![Piece of Spain](https://user-images.githubusercontent.com/93888269/147801148-1f8b9667-0705-4e3b-900e-3a2c85eb50c9.png)
 
-<p align="center"> "Piece of Spain" was created as a resource for travalers that want to visit Spain. The website offers user's ideas for places to visit and eat. </p>
+<p align="center"> Piece of Spain was created as a resource for travalers that want to visit Spain. The website offers users ideas for places to visit,eat, and fun-facts about Spain. </p>
 
 <p align="center"> :smile: :es: :sun_with_face: :smile: :es: :sun_with_face:</p>
 
 ## Description
 
-Piece of Spain is a user friendly site that offers travelers several options for their trip to Spain.
-On the Home page users will come across with a "What to Expect" section
+Piece of Spain is a user friendly site that offers travelers several destination options for their trip to Spain. This includes places to eat, different things to do and overall cost of certain activities.
+
+HTML and CSS help Piece of Spain provide a minimalistic and easy to use site were travelers have easy access to certain information. JavaScript was used to provide functionality for the Stick NavBar, Accordion, and Carousal. 
+
 
 ## Preview
-
-![Piece of Spain]()
 
 [Live Preview](https://user-images.githubusercontent.com/93888269/147800898-dc1efd35-0c2b-40c4-af5a-696212bd4099.mp4)
 
 ## Business Use Case
 
-- Business owner desires ...
+- Can generate traffic for potential users interested in Traveling to Spain
+- Site can be use as a blog which can generate revenue with the use of Advertising and Sponsorships. 
 
 ## Status
 
@@ -33,9 +34,7 @@ On the Home page users will come across with a "What to Expect" section
 
 ## Usage
 
-After the project files are downloaded, feel free to edit the HTML, CSS, and JavaScript files included with the `public` directory to 
-edit the website as you see fit. To preview the changes you make to the code, you can open 
-the `index.html` file in your web browser.
+After the project files are downloaded, feel free to edit the HTML, CSS, and JavaScript files. The HTML files can be found within the`pages` directory, while CSS files can be found within the `style` directory and JavaScript files can be found within the `js` directory. To preview the changes you make to the code, you can open the `index.html` root-directory file in your web browser.
 
 ## Roadmap
 
