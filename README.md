@@ -1,4 +1,4 @@
-![Piece of Spain]()
+![Piece of Spain](<img width="1265" alt="Screen Shot 2021-12-30 at 10 16 02 PM" src="https://user-images.githubusercontent.com/93888269/147801086-f81ede1f-958e-43b4-b882-6705736acb1d.png">)
 
 <p align="center"> "Piece of Spain" was created as a resource for travalers that want to visit Spain. The website offers user's ideas for places to visit and eat. </p>
 
