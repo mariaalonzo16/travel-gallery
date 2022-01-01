@@ -1,15 +1,15 @@
 ![Piece of Spain](https://user-images.githubusercontent.com/93888269/147801148-1f8b9667-0705-4e3b-900e-3a2c85eb50c9.png)
 
-<p align="center"> Piece of Spain is a user friendly site that offers travelers several destination options for their trip to Spain. This includes places to eat, different things to do, and overall cost of certain tours. </p>
+<p align="center"> Piece of Spain is a user friendly site that offers travelers several destination options for their trip to Spain, including places to eat, different things to do, and overall cost of certain tours. </p>
 
 <p align="center"> :smile: :es: :sun_with_face: :smile: :es: :sun_with_face:</p>
 
 ## Description
-Piece of Spain is targeted for users  interested in traveling to Spain. The site is full with information about Spain and it previews the bright colors of the Spain flag.
+Piece of Spain is targeted for users  interested in traveling to Spain. The site is full with information about Spain and it displays the bright colors of the Spain flag.
 
-HTML and CSS provide a minimalistic and easy to use site where travelers have easy access to information about different cities in Spain. By the used of flip-cards, users are able to learn interesting facts about Spain. 
+HTML and CSS provide a minimalistic and easy to use site where travelers have easy access to information about different cities in Spain. By the use of flip-cards, users are able to learn interesting facts about Spain. 
 
-JavaScript was used to provide functionality for the sticky navbar, accordion, and carousal. To hear back from users a form was created that uses form validation and regex. 
+JavaScript was used to provide functionality for the sticky navbar, accordion, and carousal. To hear back from users with insightful information, a form was created that uses form validation and regex. 
 
 
 ## Preview
@@ -20,8 +20,9 @@ JavaScript was used to provide functionality for the sticky navbar, accordion, a
 
 ## Business Use Case
 
-- Can generate traffic for a business interested in marketing for people interested in visiting Spain
+- Can generate traffic for a business interested in marketing to people interested in visiting Spain
 - Site can be used to generate revenue with the use of advertising and sponsorships
+- Use as a prototype site to test target audience response
 
 ## Status
 
@@ -37,14 +38,14 @@ JavaScript was used to provide functionality for the sticky navbar, accordion, a
 
 ## Usage
 
-After the project files are cloned, feel free to edit the HTML, CSS, and JavaScript files. The HTML files can be found within the `pages` directory, while CSS files can be found within the `style` directory and JavaScript files in `js` directory. To view the application and the changes you make to the code open `index.html` root-directory file in your web browser.
+After the project files are cloned, feel free to edit the HTML, CSS, and JavaScript files. The HTML files can be found within the `pages` directory, while CSS files can be found within the `style` directory, and JavaScript files in `js` directory. To view the application and the changes you make to the code, open the `index.html` root-directory file in your web browser.
 
 ## Roadmap
 
 Piece of Spain remains an on-going project, open to contributions.  Functionality that could improve the UX include the following:
 
 1) Optimize the responsiveness
-2) Use a back-end server 
+2) Use a back-end server to store form data
 
 ## Bugs and Issues
 
