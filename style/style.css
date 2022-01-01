@@ -104,6 +104,10 @@ body {
   text-align: center;
 }
 
+.head-padding {
+  padding-bottom: 10px;
+}
+
 main {
   padding: 30px 100px 30px 100px !important;
   margin-bottom: 68px;
